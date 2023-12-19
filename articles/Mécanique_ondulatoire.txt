@@ -1,0 +1,14 @@
+modifier - modifier le code - modifier wikidata
+la mécanique ondulatoire est une des théories dites « semi-classiques »[1] qui ont concurrencé, dans le premier tiers du xxe siècle, la mécanique quantique formalisée à partir de 1925-1926, notamment par erwin schrödinger et werner heisenberg.
+la mécanique ondulatoire considérait qu'il existait uniquement des ondes matérielles, contrastant en cela avec la théorie de l'onde pilote de louis de broglie qui décrivait des particules ponctuelles guidées par des ondes.
+par la suite, la mécanique quantique, puis, après elle, la théorie quantique des champs ont abandonné ces visions des choses en faveur d'ondes immatérielles de probabilité.
+l'origine de la mécanique quantique se situe au début du xxe siècle ; elle commence avec les travaux d'albert einstein qui associe un quantum d'énergie à l'onde électromagnétique, à la suite des travaux de max planck sur le corps noir. elle se complète avec louis de broglie qui définit le comportement des électrons sous forme d'onde.
+de ces antagonismes est né ce que l'on appelle la « dualité onde-particule ».
+louis de broglie eut l'idée d'associer une onde à chaque particule : cela implique selon lui que l'espace n'est pas uniquement constitué de particules, mais de champs quantiques qui engendrent des forces entre les corps. par la suite, erwin schrödinger proposa sa fameuse équation en 1926 dans laquelle il définit mathématiquement les fonctions d'onde.
+la théorie se heurtait à certaines observations concernant les paquets d'ondes. ce fut max born qui trouva la solution du problème en associant la fonction d'onde à une densité de probabilité de présence de la particule.
+à toute particule de masse m et de vitesse v est associée une onde de longueur d'onde λ, de fréquence ν et de quantité de mouvement p = mv.
+λ = h p {\displaystyle \lambda ={h \over \ p}}
+une particule est une onde qui se propage dans tout l'espace dont l'amplitude de probabilité nous permet de connaître la position à un moment t.
+schrödinger postule qu'il est possible de décrire des particules matérielles par des paquets d'onde de petite dimension[2].
+puisque schrödinger espérait décrire les particules comme des paquets d'onde localisés, il s'attendait à ce que de tels paquets d'onde restent localisés. il montra et souligna notamment que c'était le cas pour une particule soumise à un potentiel harmonique. cependant, dans le cas général il a rapidement été montré que ces paquets d'ondes ont tendance à s'étaler dans l'espace[2].
+sur les autres projets wikimedia :
