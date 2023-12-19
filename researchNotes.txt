@@ -31,3 +31,4 @@ in the later replacement(e.g 'y':'u',  'Zy': 'ju') here ZY will become Zu, and t
 ('y':'u',  'Zy': 'ju') to ('y':'u',  'Zu': 'ju'). 'u':'ou' will be replaced in the phonetic directly 
 It will also kill conjugations 
 // do i need to rewrite downloaded files to delete non necessary spaces to compare the two files
+ISMAIL NADIIIII
