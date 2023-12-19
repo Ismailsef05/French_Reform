@@ -1,0 +1,33 @@
+first order of improvements:
+    download the html file
+    find beginning and ending html tags for the main text
+    take that part and eliminate everything else
+    then find a way to convert that truncated html file to just text file
+    (the above can be done online, meaning save only that part of html)
+    then convert everything to lower case
+
+second task:
+    take the first 1000 (for now, later 20K) most frequent words from that master list
+    create hash map of these words
+    then if hash maps within this list, update the count
+        else ignore it
+
+
+Problem faced:
+
+complexity with data frames, thus moving to hashmap/dictionary
+je becoming gee should be fixed
+phonetic for in is 1 which gets automatically read as an int instead of str and the function call fails, need to convert evrth to str 
+fine tune the mappings to better optimize the new spelling 
+replacement sometimes mess each other up 
+Do i keep 'eu' or just make it 'e', could kill some pronounciation habbits or lead to wrong prounounciation
+problem when phonetic has Z9 Z° Z2, create duplicate 'ee', and should take care of each Z phon and other vowel
+Note that now we no longer have 'gu' as a thing either g for its sound or j 
+is it fine if we totally delete some spellings like jungle will be jingle or just keep it jungle
+to browse through the cases I could think of i used new[new['syll'].str.contains('Z8')]
+Problem when a phonetic maps to a spelling that is also considered as phonetic: solution is to devide replacements and reoder them to--
+break the chain (i.e j:y , y:u) if we reverse it it will be no longer a problem, y:u j:y. or manually replace the result of the phonetic 
+in the later replacement(e.g 'y':'u',  'Zy': 'ju') here ZY will become Zu, and the second replacement will fail, so we nee to replace
+('y':'u',  'Zy': 'ju') to ('y':'u',  'Zu': 'ju'). 'u':'ou' will be replaced in the phonetic directly 
+It will also kill conjugations 
+// do i need to rewrite downloaded files to delete non necessary spaces to compare the two files
