@@ -30,5 +30,8 @@ break the chain (i.e j:y , y:u) if we reverse it it will be no longer a problem,
 in the later replacement(e.g 'y':'u',  'Zy': 'ju') here ZY will become Zu, and the second replacement will fail, so we nee to replace
 ('y':'u',  'Zy': 'ju') to ('y':'u',  'Zu': 'ju'). 'u':'ou' will be replaced in the phonetic directly 
 It will also kill conjugations 
-// do i need to rewrite downloaded files to delete non necessary spaces to compare the two files
-ISMAIL NADIIIII
+// do i need to rewrite downloaded files to delete non necessary spaces to compare the two files, or make them in one line and compare
+CSV file is much faster than excel
+couldn't read csv file till i added encoding='ISO-8859-1', this must be looked into.
+if word had something attached to it does not recognize the wor (e.g sculptures[…])
+les liaisons are not taken into consideration and plural
