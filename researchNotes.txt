@@ -36,3 +36,4 @@ couldn't read csv file till i added encoding='ISO-8859-1', this must be looked i
 if word had something attached to it does not recognize the wor (e.g sculptures[…])
 les liaisons are not taken into consideration and plural
 we perform analysis on old dict and new dict and from that data we get our general approx results that would server as a metrix for optimization (maybe word length, file size, ink,)
+WHY IS frequency % more than a 100% !!!!!!!!!!
